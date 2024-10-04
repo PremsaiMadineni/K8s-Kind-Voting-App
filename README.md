@@ -26,6 +26,7 @@ A Redis which collects new votes
 A .NET worker which consumes votes and stores them in…
 A Postgres database backed by a Docker volume
 A Node.js web app which shows the results of the voting in real time
+
 **Resume Description**
 **Project Title:**
 Automated Deployment of Scalable Applications on AWS EC2 with Kubernetes and Argo CD
